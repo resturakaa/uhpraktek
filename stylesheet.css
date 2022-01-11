@@ -1,0 +1,183 @@
+body {
+  font-family: "times new roman";
+}
+
+li {
+  list-style: none;
+}
+
+li:hover {
+color:green;
+background-color:#0000CD;
+}
+
+.kop {
+	background-color: black;
+	padding: 10px 10px;
+	color: white;
+}
+
+.header {
+  background-color: blue;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo1 {
+  float: left;
+  border: 10px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color:#0000CD;
+}
+
+.header-logo2 {
+  font-size: 36px;
+  float: right;
+  color: #000000;
+  padding: 10px 20px;
+  margin-top: 15px;
+  border:6px;
+  border-width:5px;
+  border-style:solid;
+  border-color:#000000;
+  background-color:#F5FFFA;
+}
+
+.header-list li {
+  font-size:20px;
+  float: left;
+  padding:5px 10px;
+  margin-top: 15px;
+  border:6px;
+  border-width:5px;
+  border-style:solid;
+  border-color:#000000;
+  border-radius:15px;
+  text-align:center;
+}
+
+.copy-contain span {
+color :#FF0000;
+}
+
+.copy-container h1 {
+  font-size: 20px;
+}
+
+.copy-container span {
+  color: #ff4a4a;
+}
+
+
+.contents {
+  height: 500px;
+}
+.contents-item {
+  float: left;
+  height:100px;
+  width:100px;
+}
+
+.footer {
+  background-color: #000000;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+} 
+
+.copy-container span {
+  color: #ff4a4a;
+}
+
+.contents {
+  height: 500px;
+  margin-top: 100px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.contents-item img {
+  font-size: 24px;
+  margin-top: 30px;
+  border:2px;
+  border-width:2px;
+  border-style:solid;
+  border-color:#C0C0C0;
+  border-radius:5px;
+  height:100px;
+  width:100px;
+}
+  
+.contents-item {
+  float: left;
+  margin-right: 40px;
+}
+
+.contents-item p {
+  font-size: 16px;
+  margin-top: 30px;
+  border:6px;
+  border-width:5px;
+  border-style:solid;
+  border-color:red;
+  border-radius:15px;
+  text-align:center;
+}
+
+.contents-item p:hover {
+color:white;
+background-color:blue;
+}
+
+
+input, textarea {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+  font-size: 18px;
+  border: 2px solid blue;
+}
+
+
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+  border-style:solid;
+  border-color:blue;
+}
+
+.paragraf {
+  font-size:18px;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-center {
+  color: red;
+  padding: 120px;
+}
